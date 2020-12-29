@@ -1,12 +1,12 @@
 ---
 id: doc1
-title: Style Guide
+title: Welcome to Collabnix Community
 sidebar_label: Style Guide
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-## Markdown Syntax
+## Welcome to Docker Labs
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
